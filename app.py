@@ -1,3 +1,5 @@
+# This is a test comment to verify Git functionality and check the pipeline if working
+# ML API for prediction service
 from flask import Flask, request, jsonify
 import joblib
 import numpy as np
